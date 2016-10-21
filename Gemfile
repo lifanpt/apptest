@@ -37,4 +37,4 @@ gem 'jquery-rails'
 # To use debugger
 # gem 'debugger'
 
-#test
+#merge test
